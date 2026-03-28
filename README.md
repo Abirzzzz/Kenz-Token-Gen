@@ -107,7 +107,7 @@ Discord-Token-Generator/
 ## 📞 SUPPORT
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/K4NBrWP5)
 
-Discord Server: https://discord.gg/aliucord
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aliucord)
 
 Join for: Free Support • Updates • Help • Feature Requests
 
