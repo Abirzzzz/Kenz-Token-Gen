@@ -9,7 +9,7 @@
 
 **Advanced Discord Account Generator & Humanizer Tool**
 
-![Demo](videos/KenzxAliucord.gif)
+![Demo](videos/KenZxAliucord.gif)
 
 </div>
 
@@ -27,16 +27,16 @@
 
 | Category | Features |
 |----------|----------|
-| **Token Generator** | • Auto Account Creation<br>• Instant Email Verification (mail.tm API)<br>• No API Key Required<br>• Random User Agents<br>• Unique Passwords<br>• Y2K Style Usernames<br>• Multi-Account Support<br>• Automatic Saving |
+| **Token Generator** | • Auto Account Creation<br>• Instant Email Verification <br>• No API Key Required<br>• Random User Agents<br>• Unique Passwords<br>• Y2K Style Usernames<br>• Multi-Account Support<br>• Automatic Saving |
 | **Token Humanizer** | • Random Bios<br>• Display Names<br>• Pronouns<br>• Profile Pictures<br>• Hypesquad Selection<br>• Multi-Thread Support (1-50 threads) |
 | **UI & Experience** | • Neon Purple/Magenta Theme<br>• Pulsing ASCII Art<br>• Colored Console Output<br>• Progress Tracking |
-| **Output Management** | • Token Only Export (tokens.txt)<br>• Full Credentials (token.txt)<br>• Organized kenzshop/ folder |
+| **Output Management** | • Token Only Export (tokens.txt)<br>• Full Credentials (token.txt)<br>• Organized input/ folder |
 
 ---
 
 
-# ⭐100 STAR FOR V2📌
-# 🚀 V2 FEATURES
+# ⭐️100 STAR FOR Premium📌
+# 🚀 Premium FEATURES
 - ✅ everything auto
 - ✅ Premium mail services
 - ✅ phone verifier
@@ -47,8 +47,8 @@
 
 
 ## 📦 INSTALLATION
-
 ```bash
+
 # Clone the repository
 git clone https://github.com/KenzCybSec/Discord-Token-Generator
 cd Discord-Token-Generator
@@ -58,18 +58,27 @@ pip install -r requirements.txt
 
 # Run the tool
 python main.py
+```
 
-##⚙️ CUSTOMIZATION
+## ⚙️ CUSTOMIZATION
+
 Create these files in io/input/profiles/:
 
 File	Purpose
+
 bio.txt	Bios (one per line)
+
 names.txt	Display names (one per line)
+
 pronouns.txt	Pronouns (one per line)
+
 avatars/	Profile pictures (.png/.jpg)
 
-##📁 FILE STRUCTURE
-text
+
+
+## 📁 FILE STRUCTURE
+```bash
+
 Discord-Token-Generator/
 ├── main.py
 ├── requirements.txt
@@ -78,21 +87,44 @@ Discord-Token-Generator/
 ├── images/                 # tokengen.png, humanizer.png
 ├── videos/                 # KenzxAliucord.gif
 └── README.md
+```
 
-##💻 TESTED ON
-Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
 
-##📞 SUPPORT
+
+## 💻 TESTED ON
+
+| OS | Status |
+|---|---|
+| Windows 10/11 | ✅ |
+| Kali Linux | ✅ |
+| Ubuntu | ✅ |
+| macOS | ✅ |
+
+
+
+
+
+## 📞 SUPPORT
 Discord Server: https://discord.gg/6ZseZcYS
+
 Discord Server: https://discord.gg/aliucord
+
 Join for: Free Support • Updates • Help • Feature Requests
 
-##💰 Support
-ltc:ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
-ltc:LW3CJpiwF1y2y2SrSBvNF5PezpiGf4PWgw
+
+
+
+
+## 💰 Support
+
+ltc : ltc1qa95js467fh5j3dg3p7u6vs0uupptr2062pluum
+
+ltc : LW3CJpiwF1y2y2SrSBvNF5PezpiGf4PWgw
+
+
 
 ## ⚠️ DISCLAIMER
-
+```bash
 **📚 EDUCATIONAL PURPOSES ONLY**
 
 This tool (Discord Token Generator) is developed and distributed SOLELY for educational and research purposes. It is designed to help users understand:
@@ -139,12 +171,8 @@ By using this tool, you acknowledge and agree that:
 **THE DEVELOPERS ARE NOT RESPONSIBLE FOR ANY DAMAGES, LOSSES, OR LEGAL ISSUES ARISING FROM THE USE OF THIS TOOL. USE AT YOUR OWN RISK.**
 
 By downloading, cloning, or using this tool, you confirm that you have read, understood, and agree to all terms stated above. If you do not agree, do not use this tool.
-
+```
 ---
 
-##👥 CREDITS
+## 👥 CREDITS
 Made by	KenzShop x Aliucord
-Contributors	yeonsieunx
-
-# 📜 LICENSE
-MIT License
