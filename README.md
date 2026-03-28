@@ -1,4 +1,4 @@
-# ⚡ Discord Token Generator
+# ⚡ Kenz Token Generator
 
 <div align="center">
 
